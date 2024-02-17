@@ -1,3 +1,4 @@
+https://drive.google.com/drive/mobile/folders/1nfekODsESH7ybl2RbOQkSpXu27FPq-oZ
 ## Solution Manual for 'Oracle-PL-SQL-A Brief Introduction'
 https://buetedu-my.sharepoint.com/:b:/g/personal/2105050_cse_buet_ac_bd/ETqP5jUhFqVGsNhYoviGAjIBbOJqFSGD1aC97W0fGaviGw?e=3aNtjO
 # Introduction
